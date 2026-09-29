@@ -3,8 +3,8 @@ export default {
     title: 'Overview',
     type: 'page'
   },
-  'diy-framework': {
-    title: 'DIY Wealth Framework',
+  'module-one': {
+    title: 'Core Framework',
     type: 'page'
   }
 }
