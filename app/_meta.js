@@ -2,13 +2,5 @@ export default {
   index: {
     title: 'Overview',
     type: 'page',
-  },
-  playbook: {
-    title: 'Interactive Playbook',
-    type: 'page',
-  },
-  toolkit: {
-    title: 'Software Toolkit',
-    type: 'page',
-  },
+  }
 }
