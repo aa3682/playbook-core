@@ -18,5 +18,8 @@
     "autoprefixer": "latest",
     "postcss": "latest",
     "tailwindcss": "latest"
+  },
+  "overrides": {
+    "zod": "4.3.6"
   }
 }
